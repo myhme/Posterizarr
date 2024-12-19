@@ -1,11 +1,11 @@
 name: Generate changelog
-on:
-  push:
-    branches:
-      - main
-  release:
-    types: [created, edited]
-  workflow_dispatch:
+# on:
+  # push:
+    # branches:
+      # - main
+  # release:
+    # types: [created, edited]
+  # workflow_dispatch:
 jobs:
   changelog-wiki:
     runs-on: ubuntu-latest

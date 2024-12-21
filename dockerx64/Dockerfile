@@ -1,4 +1,3 @@
-FROM mcr.microsoft.com/powershell:azurelinux-3.0-arm64
 FROM ubuntu:latest
 
 # set version label

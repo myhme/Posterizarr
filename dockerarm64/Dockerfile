@@ -22,7 +22,7 @@ RUN apt-get -y update && \
 	ln -s /opt/microsoft/powershell/7/pwsh /usr/bin/pwsh && \
 	rm -rf /tmp/*
  
-RUN /usr/bin/pwsh -c "Install-Module -Name FanartTvAPI -Force -Verbose -SkipPublisherCheck -AllowPrerelease -Scope AllUsers;"
+RUN /usr/bin/pwsh -c "Install-Module -Name FanartTvAPI -Force -Verbose -Scope AllUsers;"
 
 WORKDIR /app
 COPY . /app

@@ -21,9 +21,10 @@ RUN apt-get -y update && \
 	chmod +x /opt/microsoft/powershell/7/pwsh && \
 	ln -s /opt/microsoft/powershell/7/pwsh /usr/bin/pwsh && \
 	rm -rf /tmp/*
+ 
+RUN /usr/bin/pwsh -c "Install-Module -Name FanartTvAPI -Force -Verbose -SkipPublisherCheck -AllowPrerelease -Scope AllUsers;"
 
 WORKDIR /app
 COPY . /app
 
-ENTRYPOINT ["/usr/bin/pwsh"]
-CMD ["/bin/sh","-c","tail","-f","/dev/null;"]
+CMD ["tail","-f"]

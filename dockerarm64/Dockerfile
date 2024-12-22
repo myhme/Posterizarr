@@ -20,9 +20,9 @@ RUN apt-get -y update && \
     tar zxf /tmp/powershell.tar.gz -C /opt/microsoft/powershell/7 && \
 	chmod +x /opt/microsoft/powershell/7/pwsh && \
 	ln -s /opt/microsoft/powershell/7/pwsh /usr/bin/pwsh && \
-	/usr/bin/pwsh -Command Install-Module -Name FanartTvAPI -Force -SkipPublisherCheck -AllowPrerelease -Scope AllUsers && \
-	apt-get remove --autoremove --purge -y curl wget && \
 	rm -rf /tmp/*
+
+RUN pwsh -c "Install-Module -Name FanartTvAPI -Force -SkipPublisherCheck -AllowPrerelease -Scope AllUsers"
 
 WORKDIR /app
 COPY . /app

@@ -25,4 +25,5 @@ RUN apt-get -y update && \
 WORKDIR /app
 COPY . /app
 
-ENTRYPOINT ["sleep","infinity"]
+ENTRYPOINT ["/usr/bin/pwsh"]
+CMD ["/bin/sh","-c","tail","-f","/dev/null;"]

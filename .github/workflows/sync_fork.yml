@@ -17,3 +17,5 @@ jobs:
           owner: fscorrupt
           base: main
           head: main
+          auto_approve: true
+          auto_merge: true

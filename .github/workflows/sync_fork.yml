@@ -13,9 +13,11 @@ jobs:
     steps:
       - uses: tgymnich/fork-sync@v2
         with:
-          token: ${{ secrets.PERSONAL_TOKEN }}
+          token: ${{ secrets.REPOSITORY_ACCESS_TOKEN }}
           owner: fscorrupt
           base: main
           head: main
+          merge_method: merge
+          pr_title: Fork Sync
           auto_approve: true
           auto_merge: true

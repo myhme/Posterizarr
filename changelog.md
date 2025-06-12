@@ -1,5 +1,80 @@
 # CHANGELOG
 
+## [1.9.63](https://github.com/fscorrupt/Posterizarr/releases/tag/1.9.63) - 2025-06-12 05:37:51+00:00
+
+## [1.9.62](https://github.com/fscorrupt/Posterizarr/releases/tag/1.9.62) - 2025-06-10 09:10:50+00:00
+
+## [1.9.61](https://github.com/fscorrupt/Posterizarr/releases/tag/1.9.61) - 2025-05-19 07:59:08+00:00
+
+## [1.9.60](https://github.com/fscorrupt/Posterizarr/releases/tag/1.9.60) - 2025-05-15 09:49:18+00:00
+
+## [1.9.59](https://github.com/fscorrupt/Posterizarr/releases/tag/1.9.59) - 2025-05-07 09:52:41+00:00
+
+## [1.9.58](https://github.com/fscorrupt/Posterizarr/releases/tag/1.9.58) - 2025-05-06 18:24:43+00:00
+
+## [1.9.57](https://github.com/fscorrupt/Posterizarr/releases/tag/1.9.57) - 2025-04-25 05:43:38+00:00
+
+## [1.9.56](https://github.com/fscorrupt/Posterizarr/releases/tag/1.9.56) - 2025-04-24 10:02:24+00:00
+
+## [1.9.55](https://github.com/fscorrupt/Posterizarr/releases/tag/1.9.55) - 2025-04-22 07:13:23+00:00
+
+## [1.9.54](https://github.com/fscorrupt/Posterizarr/releases/tag/1.9.54) - 2025-04-21 16:52:57+00:00
+
+## [1.9.53](https://github.com/fscorrupt/Posterizarr/releases/tag/1.9.53) - 2025-04-21 16:37:16+00:00
+
+## [1.9.52](https://github.com/fscorrupt/Posterizarr/releases/tag/1.9.52) - 2025-04-16 11:07:44+00:00
+
+## [1.9.51](https://github.com/fscorrupt/Posterizarr/releases/tag/1.9.51) - 2025-04-15 12:00:29+00:00
+
+## [1.9.50](https://github.com/fscorrupt/Posterizarr/releases/tag/1.9.50) - 2025-04-14 12:45:06+00:00
+
+## [1.9.49](https://github.com/fscorrupt/Posterizarr/releases/tag/1.9.49) - 2025-04-14 12:33:05+00:00
+
+## [1.9.48](https://github.com/fscorrupt/Posterizarr/releases/tag/1.9.48) - 2025-04-14 12:19:41+00:00
+
+## [1.9.47](https://github.com/fscorrupt/Posterizarr/releases/tag/1.9.47) - 2025-04-11 07:51:40+00:00
+
+## [1.9.46](https://github.com/fscorrupt/Posterizarr/releases/tag/1.9.46) - 2025-04-10 06:22:43+00:00
+
+## [1.9.45](https://github.com/fscorrupt/Posterizarr/releases/tag/1.9.45) - 2025-04-09 06:43:19+00:00
+
+## [1.9.44](https://github.com/fscorrupt/Posterizarr/releases/tag/1.9.44) - 2025-04-09 06:11:27+00:00
+
+## [1.9.43](https://github.com/fscorrupt/Posterizarr/releases/tag/1.9.43) - 2025-04-08 16:26:15+00:00
+
+*No description*
+
+## [1.9.42](https://github.com/fscorrupt/Posterizarr/releases/tag/1.9.42) - 2025-04-08 12:19:24+00:00
+
+## [1.9.41](https://github.com/fscorrupt/Posterizarr/releases/tag/1.9.41) - 2025-04-08 12:08:04+00:00
+
+## [1.9.40](https://github.com/fscorrupt/Posterizarr/releases/tag/1.9.40) - 2025-04-08 07:07:36+00:00
+
+## [1.9.39](https://github.com/fscorrupt/Posterizarr/releases/tag/1.9.39) - 2025-04-08 06:48:51+00:00
+
+feat: add script update on container startup by @fscorrupt 
+
+**Full Changelog**: https://github.com/fscorrupt/Posterizarr/compare/1.9.38...1.9.39
+
+### Feature
+
+- general:
+  - add script update on container startup ([eff2507](https://github.com/fscorrupt/Posterizarr/commit/eff25073b7a39054285d74d5326d462689d19c12))
+
+## [1.9.38](https://github.com/fscorrupt/Posterizarr/releases/tag/1.9.38) - 2025-04-08 06:12:57+00:00
+
+## [1.9.37](https://github.com/fscorrupt/Posterizarr/releases/tag/1.9.37) - 2025-04-07 19:38:50+00:00
+
+## [1.9.36](https://github.com/fscorrupt/Posterizarr/releases/tag/1.9.36) - 2025-03-27 09:15:26+00:00
+
+## [1.9.35](https://github.com/fscorrupt/Posterizarr/releases/tag/1.9.35) - 2025-03-27 07:38:06+00:00
+
+## [1.9.34](https://github.com/fscorrupt/Posterizarr/releases/tag/1.9.34) - 2025-03-25 08:59:13+00:00
+
+## [1.9.33](https://github.com/fscorrupt/Posterizarr/releases/tag/1.9.33) - 2025-03-24 08:29:36+00:00
+
+## [1.9.32](https://github.com/fscorrupt/Posterizarr/releases/tag/1.9.32) - 2025-02-24 07:25:09+00:00
+
 ## [1.9.31](https://github.com/fscorrupt/Posterizarr/releases/tag/1.9.31) - 2025-02-14 08:24:20+00:00
 
 ## [1.9.30](https://github.com/fscorrupt/Posterizarr/releases/tag/1.9.30) - 2025-02-10 08:58:20
